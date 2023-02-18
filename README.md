@@ -12,10 +12,10 @@ I have maked a quiz app that tests your general knowledge. As one of the most po
 
 
 I have used
-Stateful and Stateless Widgets and Classes and Objects.
-Modularising your code into separate classes.
-Dart classes and objects.
-Using class constructors.
-Extracting Widgets to refactor your code.
-private and public modifiers in Dart.
-Dart lists.
+1- Stateful and Stateless Widgets and Classes and Objects.
+2- Modularising your code into separate classes.
+3- Dart classes and objects.
+4- Using class constructors.
+5- Extracting Widgets to refactor your code.
+6- private and public modifiers in Dart.
+7- Dart lists.
